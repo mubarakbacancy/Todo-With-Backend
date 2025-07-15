@@ -140,7 +140,7 @@ const api = axios.create({
 5. **State Management**: Learn advanced state patterns
 6. **Testing**: Implement unit and integration tests
 
-## 📄 License
+## 📄 License 
 
 This project is licensed under the MIT License.
 
@@ -149,3 +149,4 @@ This project is licensed under the MIT License.
 **Happy Coding! 🎉**
 
 This README provides a comprehensive guide for understanding and working with your React Native Goal Todo app. It covers everything from setup to deployment, making it perfect for learning and development purposes.
+
