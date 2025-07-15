@@ -113,7 +113,7 @@ export default function Index() {
           console.log("Cancel");
         },
         style: "cancel",
-      },
+      }, 
       {
         text: "Delete",
         onPress: async () => {
